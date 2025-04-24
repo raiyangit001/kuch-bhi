@@ -1,0 +1,2 @@
+ama new.txt
+
